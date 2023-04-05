@@ -1,4 +1,4 @@
-#!/Users/ColeHoffman/dev/cs231n-master/cs231venv/bin/python
+#!/Users/ColeHoffman/dev/cs231n-master/cs231venv/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
